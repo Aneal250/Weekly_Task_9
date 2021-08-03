@@ -1,10 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import Orevaoghene from './components/Orevaoghene';
 
 function App() {
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+      <Orevaoghene />
     </div>
   );
 }
