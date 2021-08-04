@@ -1,10 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import ProjectData from './Components/ProjectData';
 
 function App() {
+  const project = {
+    name: 'Ochuko',
+    group: 'Group 8-Inventory Management Sysyem',
+    set: 25,
+  };
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+      <ProjectData myProject={project} />
     </div>
   );
 }
