@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+import React from 'react';
+// import logo from './logo.svg';
 import './App.css';
-
+import Raphael from './Component/Raphael'
 function App() {
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+      <Raphael />
     </div>
   );
 }
