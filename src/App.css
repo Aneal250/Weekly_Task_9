@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  display: grid;
+  place-content: center;
 }
 
 .App-logo {
@@ -35,4 +37,15 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.jpCard {
+  background: rgba(173, 216, 230, 0.7);
+  padding: 20px;
+  box-shadow: 2px 4px 6px 2px navy;
+  border-radius: 10px;
+}
+
+.jp-label {
+  color: navy;
 }
