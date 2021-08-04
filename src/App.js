@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Palevu from './Component/Palevu';
+import Palevu from './Component/Lucky';
 
 function App() {
   return (

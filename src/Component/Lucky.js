@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Palevu() {
+export default function Lucky() {
 
     const Name = 'Ziakegha Lucky Tonbrapgha';
     const Group = 'Ecommerce Lite';
