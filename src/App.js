@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Winner from  './components/Winner'
 
 function App() {
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+      <Winner/>
     </div>
   );
 }
