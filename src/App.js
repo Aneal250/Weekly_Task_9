@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import Joy from './Joy'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <h2>FindMyBlood</h2>
       <h3>22</h3>
 
+      <Joy/>
     </div>
   );
 }
