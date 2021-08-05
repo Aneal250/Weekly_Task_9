@@ -1,10 +1,14 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Richard from './component/Richard';
+
 
 function App() {
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+
+
+      <Richard />
     </div>
   );
 }
