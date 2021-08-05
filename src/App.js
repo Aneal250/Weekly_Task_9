@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
+import Ikay from './Component/Ikay'
 
 function App() {
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+      <Ikay />
     </div>
   );
 }
