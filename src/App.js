@@ -1,10 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
+import Victoria from './Component/Victoria';
 
 function App() {
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+      
+      <Victoria />
     </div>
   );
 }
