@@ -5,7 +5,7 @@ function App() {
   const project = {
     name: 'Ochuko',
     group: 'Group 8-Inventory Management Sysyem',
-    set: 25,
+    seat: 25,
   };
   return (
     <div className="App">
