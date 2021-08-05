@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import Joy from './Joy'
+import Joy from './Joy';
 
 function App() {
   return (
