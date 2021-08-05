@@ -1,10 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
+import Loveth from './Components/Loveth'
 
 function App() {
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+     
+    <Loveth />
+
     </div>
   );
 }
