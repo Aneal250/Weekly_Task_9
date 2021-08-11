@@ -1,10 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Button from './Button'
 
 function App() {
   return (
     <div className="App">
-      <h1>Add your own Contribution</h1>
+    
+      <Button />
     </div>
   );
 }
